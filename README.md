@@ -1,31 +1,60 @@
-### Olá, eu sou o Vinícius! 👋
+<h1 align='center'>
+  Hello World, I'm Vinícius Alves 👋
+</h1>
 
-<!--
-**ViniciusAlves03/ViniciusAlves03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div>
-  <a href="https://github.com/ViniciusAlves03/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAlves03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAlves03&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<!--
-#Logo do Python:
 
--<div style="display: inline_block"><br>
-  -<img align="center" alt="Vinícius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
--</div>
-  
--->
+<h3 align="center">
+
+   Dev Backend, com alguns conhecimentos em Frontend
+
+   Estudante de Ciência da Computação - UEPB
+
+</h3>
+
+<div align="center">
+<p>
+<a href="mailto:vinicius.alves0305@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+</a>
+<a href="https://t.me/viniciusalves1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn"></a>
+</p>
+</div>
+
+<h2>⚡️ Github Stats</h2>
+
+<div align="center">
+    <a href="https://github.com/ViniciusAlves03" align="center">
+    <img  width="54%" src="https://github-readme-stats.vercel.app/api?username=ViniciusAlves03&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" />
+    </a>
+    <a href="https://github.com/ViniciusAlves03" align="center">
+    <img  width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAlves03&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact"/>
+    </a>
+</div>
+
+<h2>📌 Habilidades</h2>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='30%'>
+
+<table>
+  <tr>
+    <th align="left">👑 Principais: </th>
+    <td><img src="https://skillicons.dev/icons?i=javascript,express,nodejs,java,mongodb,git" /></td>
+  </tr>
+  <tr>
+    <th align="left">🤖 Outras: </th>
+    <td><img src="https://skillicons.dev/icons?i=typescript,react,python,ruby,postgres,c" /></td>
+  </tr>
+  <tr>
+    <th align="left">📚Estudando:</th>
+    <td><img src="https://skillicons.dev/icons?i=spring,materialui" /></td>
+  </tr>
+  <tr>
+    <th align="left">⚙️Ferramentas:</th>
+    <td><img src="https://skillicons.dev/icons?i=vscode,figma,postman" /></td>
+  </tr>
+</table>
+<br />
