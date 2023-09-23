@@ -27,10 +27,10 @@
 
 <div align="center">
     <a href="https://github.com/ViniciusAlves03" align="center">
-    <img  width="54%" src="https://github-readme-stats.vercel.app/api?username=ViniciusAlves03&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" />
+    <img  width="53%" src="https://github-readme-stats.vercel.app/api?username=ViniciusAlves03&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" />
     </a>
     <a href="https://github.com/ViniciusAlves03" align="center">
-    <img  width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAlves03&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact"/>
+    <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAlves03&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
     </a>
 </div>
 
