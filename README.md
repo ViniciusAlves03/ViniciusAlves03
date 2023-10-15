@@ -39,11 +39,11 @@
 <table>
   <tr>
     <th align="left">👑 Principais: </th>
-    <td><img src="https://skillicons.dev/icons?i=javascript,express,nodejs,java,mongodb,git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=javascript,express,nodejs,java,mongodb,typescript" /></td>
   </tr>
   <tr>
     <th align="left">🤖 Outras: </th>
-    <td><img src="https://skillicons.dev/icons?i=typescript,react,python,ruby,postgres,c" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,react,python,ruby,postgres,c" /></td>
   </tr>
   <tr>
     <th align="left">📚Estudando:</th>
