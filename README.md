@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <th align="left">📚Estudando:</th>
-    <td><img src="https://skillicons.dev/icons?i=spring,materialui" /></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,materialui,angular" /></td>
   </tr>
   <tr>
     <th align="left">⚙️Ferramentas:</th>
