@@ -38,11 +38,11 @@
   </tr>
   <tr>
     <th align="left">🤖 Outras: </th>
-    <td><img src="https://skillicons.dev/icons?i=git,react,python,ruby,postgres,typescript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,typescript,python,ruby,postgres" /></td>
   </tr>
   <tr>
     <th align="left">⚙️Ferramentas:</th>
-    <td><img src="https://skillicons.dev/icons?i=vscode,figma,postman" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,figma,postman,git" /></td>
   </tr>
 </table>
 <br />
