@@ -2,7 +2,7 @@
   <h1>Vinícius Alves</h1>
   <ul>
     <li>Desenvolvedor Back-end</li>
-    <li>Graduado em Ciência da Computação - UEPB</li>
+    <li>Bacharel em Ciência da Computação - UEPB</li>
   </ul>
 
   <a href="https://www.linkedin.com/in/vinicius-alves-dev">
