@@ -130,6 +130,8 @@
                 </td>
                 <td valign="top" align="center">
                     <img
+                        src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" /><br>
+                    <img
                         src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" /><br>
                     <img
                         src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" /><br>
